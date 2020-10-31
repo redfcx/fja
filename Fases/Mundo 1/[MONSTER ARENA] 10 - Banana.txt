@@ -15,3 +15,4 @@ https://images.habbo.com/dcr/hof_furni/53176/lm_palm2.swf*
 https://images.habbo.com/dcr/hof_furni/53890/wildwest_teleport.swf*
 https://images.habbo.com/dcr/hof_furni/45508/summer_sunset_wall.swf*
 https://images.habbo.com/dcr/hof_furni/48246/dimmer_buttn.swf*
+https://images.habbo.com/dcr/hof_furni/mp3/sound_machine_sample_56.mp3*

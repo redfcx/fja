@@ -15,7 +15,7 @@ https://images.habbo.com/dcr/hof_furni/54764/hween13_castleblock2.swf*
 https://images.habbo.com/dcr/hof_furni/48082/duck.swf*
 https://images.habbo.com/dcr/hof_furni/54764/hween13_castleturret1.swf*
 https://images.habbo.com/dcr/hof_furni/54764/hween13_floor2.swf*
-https://images.habbo.com/dcr/hof_furni/48082/summer_chair*6.swf*
+https://images.habbo.com/dcr/hof_furni/48082/summer_chair.swf*
 https://images.habbo.com/dcr/hof_furni/47678/hween13_tile2.swf*
 https://images.habbo.com/dcr/hof_furni/54764/hween13_castledoor.swf*
 https://images.habbo.com/dcr/hof_furni/54764/hween10_zombie.swf*

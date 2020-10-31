@@ -12,3 +12,4 @@ https://images.habbo.com/dcr/hof_furni/45508/teleport_door.swf*
 https://images.habbo.com/dcr/hof_furni/48507/xmas08_telep.swf*
 https://images.habbo.com/dcr/hof_furni/48082/summer_chair*6.swf*
 https://images.habbo.com/dcr/hof_furni/48246/dimmer_swtch.swf*
+https://images.habbo.com/dcr/hof_furni/mp3/sound_machine_sample_56.mp3*
